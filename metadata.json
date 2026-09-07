@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Signal Pro Max",
+  "description": "VIP Quantum Signal Pro Max hacker bot with Quotex deep scan algorithm and 28 Forex OTC pairs analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
